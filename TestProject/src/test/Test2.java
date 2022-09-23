@@ -9,7 +9,7 @@ public class Test2 {
 		System.out.println("New Method...");
 	}
 	void m2() {
-		
+		System.out.println("hihi");
 	}
 
 }
