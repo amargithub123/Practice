@@ -8,5 +8,8 @@ public class Test2 {
 	void m1() {
 		System.out.println("New Method...");
 	}
+	void m2() {
+		
+	}
 
 }
